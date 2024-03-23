@@ -14,7 +14,7 @@ response = None
 
 ##### The App
 
-st.title('Bank Marketing Analysis and Modeling', anchor=None)
+st.title('Deposit Prediction for Bank Marketing', anchor=None)
 
 # Sidebar for EDA and Dataset
 st.sidebar.write("""

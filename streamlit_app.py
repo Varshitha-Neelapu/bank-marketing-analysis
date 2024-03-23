@@ -57,8 +57,4 @@ with st.container():
     if response != None:
         st.metric('Response', response, delta=None, delta_color="normal")
 
-st.write("""__________""")
 
-with st.container():
-    st.header('Model Evaluation')
-    st.dataframe(metrics_result)

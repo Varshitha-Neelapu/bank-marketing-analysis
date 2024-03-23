@@ -11,7 +11,7 @@ scaler_duration = pickle.load(open('serialization/utilities/scaler_duration.pick
 scaler_pdays = pickle.load(open('serialization/utilities/scaler_pdays.pickle', 'rb'))
 
 model_names = (
-    'DecisionTreeClassifier',
+    'GradientBoost',
     'LogisticRegression',
 )
 

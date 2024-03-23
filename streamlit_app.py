@@ -27,8 +27,7 @@ st.sidebar.write("""
 with st.container():
 
     st.header('Response Predictor')
-
-
+    
     col1, col2 = st.columns(2)
 
     with col1:

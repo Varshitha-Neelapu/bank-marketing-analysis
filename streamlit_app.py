@@ -18,7 +18,7 @@ st.title('Deposit Prediction for Bank Marketing', anchor=None)
 
 # Sidebar for EDA and Dataset
 st.sidebar.write("""
-    [Exploratory Data Analysis](https://github.com/Varshitha-Neelapu/Bank-Marketing/edit/main/Bank_Marketing_with_ML.ipynb)
+    [Exploratory Data Analysis](https://github.com/emekaefidi/Bank-Marketing-with-Machine-Learning/blob/master/Bank%20Marketing%20with%20Machine%20Learning.ipynb)
 """)
 st.sidebar.write("""
     [Dataset](https://archive.ics.uci.edu/static/public/222/bank+marketing.zip)
